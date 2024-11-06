@@ -5,7 +5,8 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           language-spir-v
-version:        0.1.0.0
+version:        0.1.0.1
+synopsis:       Data type for SPIR-V
 description:    Please see the README on GitHub at <https://github.com/githubuser/language-spir-v#readme>
 category:       Language
 homepage:       https://github.com/githubuser/language-spir-v#readme
