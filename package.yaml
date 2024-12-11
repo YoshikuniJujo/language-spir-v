@@ -28,6 +28,7 @@ dependencies:
 - bytestring < 1
 - nowdoc < 1
 - c-enum < 1
+- nowdoc < 1
 
 ghc-options:
 - -Wall
