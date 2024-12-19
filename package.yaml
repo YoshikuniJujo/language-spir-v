@@ -1,6 +1,6 @@
 name:                language-spir-v
-version:             0.1.0.1
-github:              "githubuser/language-spir-v"
+version:             0.1.0.2
+github:              "YoshikuniJujo/language-spir-v"
 license:             BSD3
 author:              "Yoshikuni Jujo"
 maintainer:          "yoshikuni.jujo@gmail.com"
@@ -20,7 +20,7 @@ category:            Language
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/githubuser/language-spir-v#readme>
+description:         Please see the README on GitHub at <https://github.com/YoshikuniJujo/language-spir-v#readme>
 
 dependencies:
 - base >= 4.7 && < 5

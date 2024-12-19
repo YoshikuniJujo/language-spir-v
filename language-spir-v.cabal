@@ -5,12 +5,12 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           language-spir-v
-version:        0.1.0.1
+version:        0.1.0.2
 synopsis:       Data type for SPIR-V
-description:    Please see the README on GitHub at <https://github.com/githubuser/language-spir-v#readme>
+description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/language-spir-v#readme>
 category:       Language
-homepage:       https://github.com/githubuser/language-spir-v#readme
-bug-reports:    https://github.com/githubuser/language-spir-v/issues
+homepage:       https://github.com/YoshikuniJujo/language-spir-v#readme
+bug-reports:    https://github.com/YoshikuniJujo/language-spir-v/issues
 author:         Yoshikuni Jujo
 maintainer:     yoshikuni.jujo@gmail.com
 copyright:      2023 Yoshikuni Jujo
@@ -25,7 +25,7 @@ data-files:
 
 source-repository head
   type: git
-  location: https://github.com/githubuser/language-spir-v
+  location: https://github.com/YoshikuniJujo/language-spir-v
 
 library
   exposed-modules:
