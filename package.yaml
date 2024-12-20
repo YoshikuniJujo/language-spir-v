@@ -1,5 +1,5 @@
 name:                language-spir-v
-version:             0.1.0.2
+version:             0.1.0.3
 github:              "YoshikuniJujo/language-spir-v"
 license:             BSD3
 author:              "Yoshikuni Jujo"
@@ -40,6 +40,8 @@ ghc-options:
 - -Wmissing-home-modules
 - -Wpartial-fields
 - -Wredundant-constraints
+
+default-extensions: DataKinds
 
 library:
   source-dirs: src
